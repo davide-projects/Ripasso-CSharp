@@ -14,3 +14,4 @@ C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\01-Primo-programma\Primo
 C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\01-Primo-programma\PrimoProgramma\obj\Debug\net10.0\PrimoProgramma.genruntimeconfig.cache
 C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\01-Primo-programma\PrimoProgramma\obj\Debug\net10.0\ref\PrimoProgramma.dll
 C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\01-Primo-programma\PrimoProgramma\obj\Debug\net10.0\PrimoPro.8847EE63.Up2Date
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\01-Primo-programma\PrimoProgramma\obj\Debug\net10.0\PrimoProgramma.sourcelink.json

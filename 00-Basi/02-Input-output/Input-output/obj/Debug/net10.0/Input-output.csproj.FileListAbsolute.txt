@@ -1,0 +1,17 @@
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\bin\Debug\net10.0\Input-output.exe
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\bin\Debug\net10.0\Input-output.deps.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\bin\Debug\net10.0\Input-output.runtimeconfig.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\bin\Debug\net10.0\Input-output.runtimeconfig.dev.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\bin\Debug\net10.0\Input-output.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\bin\Debug\net10.0\Input-output.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\obj\Debug\net10.0\Input-output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\obj\Debug\net10.0\Input-output.AssemblyInfoInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\obj\Debug\net10.0\Input-output.AssemblyInfo.cs
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\obj\Debug\net10.0\Input-output.csproj.CoreCompileInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\obj\Debug\net10.0\Input-output.sourcelink.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\obj\Debug\net10.0\Input-output.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\obj\Debug\net10.0\refint\Input-output.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\obj\Debug\net10.0\Input-output.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\obj\Debug\net10.0\Input-output.genruntimeconfig.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\obj\Debug\net10.0\ref\Input-output.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\02-Input-output\Input-output\obj\Debug\net10.0\Input-ou.82DBBE0E.Up2Date
