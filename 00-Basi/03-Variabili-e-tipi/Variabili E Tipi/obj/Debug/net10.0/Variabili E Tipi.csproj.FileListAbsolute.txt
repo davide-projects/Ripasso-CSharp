@@ -1,0 +1,17 @@
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\bin\Debug\net10.0\Variabili E Tipi.exe
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\bin\Debug\net10.0\Variabili E Tipi.deps.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\bin\Debug\net10.0\Variabili E Tipi.runtimeconfig.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\bin\Debug\net10.0\Variabili E Tipi.runtimeconfig.dev.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\bin\Debug\net10.0\Variabili E Tipi.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\bin\Debug\net10.0\Variabili E Tipi.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\obj\Debug\net10.0\Variabili E Tipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\obj\Debug\net10.0\Variabili E Tipi.AssemblyInfoInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\obj\Debug\net10.0\Variabili E Tipi.AssemblyInfo.cs
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\obj\Debug\net10.0\Variabili E Tipi.csproj.CoreCompileInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\obj\Debug\net10.0\Variabili E Tipi.sourcelink.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\obj\Debug\net10.0\Variabili E Tipi.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\obj\Debug\net10.0\refint\Variabili E Tipi.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\obj\Debug\net10.0\Variabili E Tipi.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\obj\Debug\net10.0\Variabili E Tipi.genruntimeconfig.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\obj\Debug\net10.0\ref\Variabili E Tipi.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\03-Variabili-e-tipi\Variabili E Tipi\obj\Debug\net10.0\Variabil.622614B5.Up2Date

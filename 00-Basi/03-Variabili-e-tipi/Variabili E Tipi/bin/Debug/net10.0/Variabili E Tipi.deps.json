@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Variabili E Tipi/1.0.0": {
+        "runtime": {
+          "Variabili E Tipi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Variabili E Tipi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
