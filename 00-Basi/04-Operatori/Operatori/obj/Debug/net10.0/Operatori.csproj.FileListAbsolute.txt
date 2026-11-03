@@ -1,0 +1,17 @@
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\bin\Debug\net10.0\Operatori.exe
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\bin\Debug\net10.0\Operatori.deps.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\bin\Debug\net10.0\Operatori.runtimeconfig.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\bin\Debug\net10.0\Operatori.runtimeconfig.dev.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\bin\Debug\net10.0\Operatori.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\bin\Debug\net10.0\Operatori.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\obj\Debug\net10.0\Operatori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\obj\Debug\net10.0\Operatori.AssemblyInfoInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\obj\Debug\net10.0\Operatori.AssemblyInfo.cs
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\obj\Debug\net10.0\Operatori.csproj.CoreCompileInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\obj\Debug\net10.0\Operatori.sourcelink.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\obj\Debug\net10.0\Operatori.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\obj\Debug\net10.0\refint\Operatori.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\obj\Debug\net10.0\Operatori.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\obj\Debug\net10.0\Operatori.genruntimeconfig.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\obj\Debug\net10.0\ref\Operatori.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\04-Operatori\Operatori\obj\Debug\net10.0\Operatori.csproj.Up2Date
