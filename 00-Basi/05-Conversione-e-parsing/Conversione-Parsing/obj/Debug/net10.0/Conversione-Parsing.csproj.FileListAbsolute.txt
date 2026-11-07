@@ -1,0 +1,17 @@
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\bin\Debug\net10.0\Conversione-Parsing.exe
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\bin\Debug\net10.0\Conversione-Parsing.deps.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\bin\Debug\net10.0\Conversione-Parsing.runtimeconfig.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\bin\Debug\net10.0\Conversione-Parsing.runtimeconfig.dev.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\bin\Debug\net10.0\Conversione-Parsing.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\bin\Debug\net10.0\Conversione-Parsing.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\obj\Debug\net10.0\Conversione-Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\obj\Debug\net10.0\Conversione-Parsing.AssemblyInfoInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\obj\Debug\net10.0\Conversione-Parsing.AssemblyInfo.cs
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\obj\Debug\net10.0\Conversione-Parsing.csproj.CoreCompileInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\obj\Debug\net10.0\Conversione-Parsing.sourcelink.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\obj\Debug\net10.0\Conversione-Parsing.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\obj\Debug\net10.0\refint\Conversione-Parsing.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\obj\Debug\net10.0\Conversione-Parsing.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\obj\Debug\net10.0\Conversione-Parsing.genruntimeconfig.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\obj\Debug\net10.0\ref\Conversione-Parsing.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\05-Conversione-e-parsing\Conversione-Parsing\obj\Debug\net10.0\Conversi.1DC87A58.Up2Date

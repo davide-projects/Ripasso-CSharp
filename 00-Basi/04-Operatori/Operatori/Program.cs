@@ -49,6 +49,7 @@ double leggiDoublePositivo (string prompt)
         {
             return result;
         }
+
         else
         {
             Console.WriteLine("Errore: l'input deve essere un numero positivo. Riprova.");
