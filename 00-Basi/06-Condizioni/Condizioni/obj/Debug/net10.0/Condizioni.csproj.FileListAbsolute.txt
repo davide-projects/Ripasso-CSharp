@@ -1,0 +1,17 @@
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\bin\Debug\net10.0\Condizioni.exe
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\bin\Debug\net10.0\Condizioni.deps.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\bin\Debug\net10.0\Condizioni.runtimeconfig.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\bin\Debug\net10.0\Condizioni.runtimeconfig.dev.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\bin\Debug\net10.0\Condizioni.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\bin\Debug\net10.0\Condizioni.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\obj\Debug\net10.0\Condizioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\obj\Debug\net10.0\Condizioni.AssemblyInfoInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\obj\Debug\net10.0\Condizioni.AssemblyInfo.cs
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\obj\Debug\net10.0\Condizioni.csproj.CoreCompileInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\obj\Debug\net10.0\Condizioni.sourcelink.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\obj\Debug\net10.0\Condizioni.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\obj\Debug\net10.0\refint\Condizioni.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\obj\Debug\net10.0\Condizioni.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\obj\Debug\net10.0\Condizioni.genruntimeconfig.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\obj\Debug\net10.0\ref\Condizioni.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Condizioni\obj\Debug\net10.0\Condizioni.csproj.Up2Date
