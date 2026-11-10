@@ -1,0 +1,17 @@
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\bin\Debug\net10.0\Switch.exe
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\bin\Debug\net10.0\Switch.deps.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\bin\Debug\net10.0\Switch.runtimeconfig.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\bin\Debug\net10.0\Switch.runtimeconfig.dev.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\bin\Debug\net10.0\Switch.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\bin\Debug\net10.0\Switch.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\obj\Debug\net10.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\obj\Debug\net10.0\Switch.AssemblyInfoInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\obj\Debug\net10.0\Switch.AssemblyInfo.cs
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\obj\Debug\net10.0\Switch.csproj.CoreCompileInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\obj\Debug\net10.0\Switch.sourcelink.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\obj\Debug\net10.0\Switch.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\obj\Debug\net10.0\refint\Switch.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\obj\Debug\net10.0\Switch.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\obj\Debug\net10.0\Switch.genruntimeconfig.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\obj\Debug\net10.0\ref\Switch.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\06-Condizioni\Switch\obj\Debug\net10.0\Switch.csproj.Up2Date
