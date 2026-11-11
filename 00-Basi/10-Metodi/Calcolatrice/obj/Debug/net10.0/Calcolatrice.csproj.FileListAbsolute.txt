@@ -1,0 +1,17 @@
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\bin\Debug\net10.0\Calcolatrice.exe
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\bin\Debug\net10.0\Calcolatrice.deps.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\bin\Debug\net10.0\Calcolatrice.runtimeconfig.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\bin\Debug\net10.0\Calcolatrice.runtimeconfig.dev.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\bin\Debug\net10.0\Calcolatrice.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\bin\Debug\net10.0\Calcolatrice.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\obj\Debug\net10.0\Calcolatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\obj\Debug\net10.0\Calcolatrice.AssemblyInfoInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\obj\Debug\net10.0\Calcolatrice.AssemblyInfo.cs
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\obj\Debug\net10.0\Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\obj\Debug\net10.0\Calcolatrice.sourcelink.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\obj\Debug\net10.0\Calcolatrice.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\obj\Debug\net10.0\refint\Calcolatrice.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\obj\Debug\net10.0\Calcolatrice.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\obj\Debug\net10.0\Calcolatrice.genruntimeconfig.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\obj\Debug\net10.0\ref\Calcolatrice.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\10-Metodi\Calcolatrice\obj\Debug\net10.0\Calcolat.C8DDDECD.Up2Date
