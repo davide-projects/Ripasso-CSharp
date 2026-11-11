@@ -1,0 +1,17 @@
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\bin\Debug\net10.0\Cicli Annidati.exe
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\bin\Debug\net10.0\Cicli Annidati.deps.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\bin\Debug\net10.0\Cicli Annidati.runtimeconfig.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\bin\Debug\net10.0\Cicli Annidati.runtimeconfig.dev.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\bin\Debug\net10.0\Cicli Annidati.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\bin\Debug\net10.0\Cicli Annidati.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\obj\Debug\net10.0\Cicli Annidati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\obj\Debug\net10.0\Cicli Annidati.AssemblyInfoInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\obj\Debug\net10.0\Cicli Annidati.AssemblyInfo.cs
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\obj\Debug\net10.0\Cicli Annidati.csproj.CoreCompileInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\obj\Debug\net10.0\Cicli Annidati.sourcelink.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\obj\Debug\net10.0\Cicli Annidati.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\obj\Debug\net10.0\refint\Cicli Annidati.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\obj\Debug\net10.0\Cicli Annidati.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\obj\Debug\net10.0\Cicli Annidati.genruntimeconfig.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\obj\Debug\net10.0\ref\Cicli Annidati.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\09-Cicli-annidati\Cicli Annidati\obj\Debug\net10.0\Cicli An.EDE4BE82.Up2Date
