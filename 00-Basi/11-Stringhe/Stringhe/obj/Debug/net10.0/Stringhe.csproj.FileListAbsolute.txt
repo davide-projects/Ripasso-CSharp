@@ -1,0 +1,17 @@
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\bin\Debug\net10.0\Stringhe.exe
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\bin\Debug\net10.0\Stringhe.deps.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\bin\Debug\net10.0\Stringhe.runtimeconfig.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\bin\Debug\net10.0\Stringhe.runtimeconfig.dev.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\bin\Debug\net10.0\Stringhe.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\bin\Debug\net10.0\Stringhe.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\obj\Debug\net10.0\Stringhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\obj\Debug\net10.0\Stringhe.AssemblyInfoInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\obj\Debug\net10.0\Stringhe.AssemblyInfo.cs
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\obj\Debug\net10.0\Stringhe.csproj.CoreCompileInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\obj\Debug\net10.0\Stringhe.sourcelink.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\obj\Debug\net10.0\Stringhe.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\obj\Debug\net10.0\refint\Stringhe.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\obj\Debug\net10.0\Stringhe.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\obj\Debug\net10.0\Stringhe.genruntimeconfig.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\obj\Debug\net10.0\ref\Stringhe.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\00-Basi\11-Stringhe\Stringhe\obj\Debug\net10.0\Stringhe.csproj.Up2Date
