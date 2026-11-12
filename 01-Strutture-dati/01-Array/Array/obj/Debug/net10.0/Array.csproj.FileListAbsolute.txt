@@ -1,0 +1,17 @@
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\bin\Debug\net10.0\Array.exe
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\bin\Debug\net10.0\Array.deps.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\bin\Debug\net10.0\Array.runtimeconfig.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\bin\Debug\net10.0\Array.runtimeconfig.dev.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\bin\Debug\net10.0\Array.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\bin\Debug\net10.0\Array.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\obj\Debug\net10.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\obj\Debug\net10.0\Array.AssemblyInfoInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\obj\Debug\net10.0\Array.AssemblyInfo.cs
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\obj\Debug\net10.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\obj\Debug\net10.0\Array.sourcelink.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\obj\Debug\net10.0\Array.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\obj\Debug\net10.0\refint\Array.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\obj\Debug\net10.0\Array.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\obj\Debug\net10.0\Array.genruntimeconfig.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\obj\Debug\net10.0\ref\Array.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\01-Array\Array\obj\Debug\net10.0\Array.csproj.Up2Date
