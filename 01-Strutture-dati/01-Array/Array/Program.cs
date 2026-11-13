@@ -12,10 +12,6 @@ double[] grades = ReadGrades(studentCount);
 PrintClassSummary(grades);
 
 
-
-
-
-
 int ReadIntRange(string prompt, int min, int max)
 {
     int value;
