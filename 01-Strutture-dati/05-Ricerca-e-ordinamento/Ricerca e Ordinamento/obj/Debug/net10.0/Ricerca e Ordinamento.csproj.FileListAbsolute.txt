@@ -1,0 +1,17 @@
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\bin\Debug\net10.0\Ricerca e Ordinamento.exe
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\bin\Debug\net10.0\Ricerca e Ordinamento.deps.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\bin\Debug\net10.0\Ricerca e Ordinamento.runtimeconfig.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\bin\Debug\net10.0\Ricerca e Ordinamento.runtimeconfig.dev.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\bin\Debug\net10.0\Ricerca e Ordinamento.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\bin\Debug\net10.0\Ricerca e Ordinamento.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\obj\Debug\net10.0\Ricerca e Ordinamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\obj\Debug\net10.0\Ricerca e Ordinamento.AssemblyInfoInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\obj\Debug\net10.0\Ricerca e Ordinamento.AssemblyInfo.cs
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\obj\Debug\net10.0\Ricerca e Ordinamento.csproj.CoreCompileInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\obj\Debug\net10.0\Ricerca e Ordinamento.sourcelink.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\obj\Debug\net10.0\Ricerca e Ordinamento.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\obj\Debug\net10.0\refint\Ricerca e Ordinamento.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\obj\Debug\net10.0\Ricerca e Ordinamento.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\obj\Debug\net10.0\Ricerca e Ordinamento.genruntimeconfig.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\obj\Debug\net10.0\ref\Ricerca e Ordinamento.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\01-Strutture-dati\05-Ricerca-e-ordinamento\Ricerca e Ordinamento\obj\Debug\net10.0\Ricerca .DF06C702.Up2Date
