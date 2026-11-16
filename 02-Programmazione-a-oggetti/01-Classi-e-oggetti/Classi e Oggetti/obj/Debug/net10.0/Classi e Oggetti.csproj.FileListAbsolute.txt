@@ -1,0 +1,17 @@
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\bin\Debug\net10.0\Classi e Oggetti.exe
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\bin\Debug\net10.0\Classi e Oggetti.deps.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\bin\Debug\net10.0\Classi e Oggetti.runtimeconfig.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\bin\Debug\net10.0\Classi e Oggetti.runtimeconfig.dev.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\bin\Debug\net10.0\Classi e Oggetti.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\bin\Debug\net10.0\Classi e Oggetti.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\obj\Debug\net10.0\Classi e Oggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\obj\Debug\net10.0\Classi e Oggetti.AssemblyInfoInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\obj\Debug\net10.0\Classi e Oggetti.AssemblyInfo.cs
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\obj\Debug\net10.0\Classi e Oggetti.csproj.CoreCompileInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\obj\Debug\net10.0\Classi e Oggetti.sourcelink.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\obj\Debug\net10.0\Classi e Oggetti.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\obj\Debug\net10.0\refint\Classi e Oggetti.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\obj\Debug\net10.0\Classi e Oggetti.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\obj\Debug\net10.0\Classi e Oggetti.genruntimeconfig.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\obj\Debug\net10.0\ref\Classi e Oggetti.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\01-Classi-e-oggetti\Classi e Oggetti\obj\Debug\net10.0\Classi e.5F30D502.Up2Date
