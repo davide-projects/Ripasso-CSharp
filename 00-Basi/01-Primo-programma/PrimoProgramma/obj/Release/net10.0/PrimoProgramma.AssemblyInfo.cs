@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimoProgramma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13b2eaf25621b88cb1f325026f4d03fd77e28067")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimoProgramma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimoProgramma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,17 @@
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\bin\Debug\net10.0\Costruttori-e-proprieta.exe
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\bin\Debug\net10.0\Costruttori-e-proprieta.deps.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\bin\Debug\net10.0\Costruttori-e-proprieta.runtimeconfig.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\bin\Debug\net10.0\Costruttori-e-proprieta.runtimeconfig.dev.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\bin\Debug\net10.0\Costruttori-e-proprieta.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\bin\Debug\net10.0\Costruttori-e-proprieta.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\obj\Debug\net10.0\Costruttori-e-proprieta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\obj\Debug\net10.0\Costruttori-e-proprieta.AssemblyInfoInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\obj\Debug\net10.0\Costruttori-e-proprieta.AssemblyInfo.cs
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\obj\Debug\net10.0\Costruttori-e-proprieta.csproj.CoreCompileInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\obj\Debug\net10.0\Costruttori-e-proprieta.sourcelink.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\obj\Debug\net10.0\Costruttori-e-proprieta.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\obj\Debug\net10.0\refint\Costruttori-e-proprieta.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\obj\Debug\net10.0\Costruttori-e-proprieta.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\obj\Debug\net10.0\Costruttori-e-proprieta.genruntimeconfig.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\obj\Debug\net10.0\ref\Costruttori-e-proprieta.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\02-Costruttori-e-proprieta\Costruttori-e-proprieta\obj\Debug\net10.0\Costrutt.E70AC139.Up2Date

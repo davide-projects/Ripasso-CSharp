@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Operatori")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ce350d22de15c1971c74e4436100210df40ed95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13b2eaf25621b88cb1f325026f4d03fd77e28067")]
 [assembly: System.Reflection.AssemblyProductAttribute("Operatori")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Operatori")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cicli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6b7c4f4d3f66a80b5508c81e27e26cd403da1d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13b2eaf25621b88cb1f325026f4d03fd77e28067")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cicli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cicli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
