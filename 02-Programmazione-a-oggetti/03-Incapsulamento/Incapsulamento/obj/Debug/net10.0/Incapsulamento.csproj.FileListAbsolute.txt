@@ -1,0 +1,17 @@
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\bin\Debug\net10.0\Incapsulamento.exe
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\bin\Debug\net10.0\Incapsulamento.deps.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\bin\Debug\net10.0\Incapsulamento.runtimeconfig.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\bin\Debug\net10.0\Incapsulamento.runtimeconfig.dev.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\bin\Debug\net10.0\Incapsulamento.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\bin\Debug\net10.0\Incapsulamento.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\obj\Debug\net10.0\Incapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\obj\Debug\net10.0\Incapsulamento.AssemblyInfoInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\obj\Debug\net10.0\Incapsulamento.AssemblyInfo.cs
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\obj\Debug\net10.0\Incapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\obj\Debug\net10.0\Incapsulamento.sourcelink.json
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\obj\Debug\net10.0\Incapsulamento.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\obj\Debug\net10.0\refint\Incapsulamento.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\obj\Debug\net10.0\Incapsulamento.pdb
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\obj\Debug\net10.0\Incapsulamento.genruntimeconfig.cache
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\obj\Debug\net10.0\ref\Incapsulamento.dll
+C:\Users\A872\source\repos\CSharp-Ripasso-Stage\02-Programmazione-a-oggetti\03-Incapsulamento\Incapsulamento\obj\Debug\net10.0\Incapsul.693BB338.Up2Date
